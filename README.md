@@ -1,4 +1,19 @@
 # Project_1
-Musical Divas Data
+# Musical Divas Data
 
-Our project began by comparing two of the biggest female artists who had the two biggest concerts this summer. Beyonce’ and Taylor Swift. We used Spotify to see who had the most likes, clicks, plays or downloads. After two days of reviewing the Spotify Web Developers page, Our Team decided we would need more time than we had available to complete the analysis. We did some research and then uncovered some readily available song statistics to compare the two artists. After discussing, it was agreed to compare Artists by Country, popularity, tempo, loudness, energy, loudness, speechiness, danceability and valence. The top four Countries that use Spotify are the United States, Japan, the United Kingdom and Germany. We will look at the data to see if the same songs were ranked in the same order in different countries based on different metrics. Pop is the most listened-to genre of music in Germany; Pop/Adult Contemporary is the most listened-to genre of music in Germany; J-Pop is the most listened-to genre of music in Japan; Rock and Indie is the most listened-to genre of music in the United States.
+## Project Overview
+
+Our project embarked on a comparison between two iconic female artists, Beyoncé and Taylor Swift, who held the spotlight with the two biggest concerts of the summer. We initially intended to use music streaming services (Billboard, Apple, etc) data to gauge popularity through metrics such as likes, clicks, plays, or downloads. Our team faced constraints during the analysis phase. We redirected our efforts toward exploring readily available song statistics to draw insightful comparisons between these musical powerhouses.
+
+## Methodology
+
+After two days of exploring the Spotify Web Developers page, it became evident that a more comprehensive analysis would require more time than available. Consequently, our focus shifted to an examination of artist data. The chosen parameters for comparison included aspects such as popularity, tempo, loudness, energy, speechiness, danceability, and valence. Considering the significant user bases in countries such as the United States, Japan, the United Kingdom, and Germany, we aimed to discern if songs held the same ranking across diverse metrics in different regions.
+
+## Artist Selection
+
+Recognizing the limitations in obtaining data for multiple countries, we introduced Mariah Carey to our dataset. This addition allowed us to collect more data but also broadened the dataset. Mariah Carey's inclusion allowed us to provide a more comprehensive analysis.
+
+## Key Observations
+
+Our analysis unveiled that the popularity of a song appears to be closely tied to its loudness, with the two metrics exhibiting a strong correlation. This insight provided valuable information for understanding the factors that influence popularity of music and offers potential avenues for further exploration.
+
